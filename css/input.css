@@ -1,0 +1,15 @@
+   
+.quantity {
+  margin-left: 3px;
+  float: left;
+}
+
+.quantity-content {
+  padding: .68em;
+  margin-bottom: 10px;
+  border: 1px solid #d1d1d1;
+  font-size: 14px;
+  box-shadow: inset 0 3px 8px 0 #e5e5e5;
+  width: 50px
+  text-align: center;
+}
