@@ -1,7 +1,9 @@
 .grid{
   display: grid;
   grid-column-gap: 15px;
-  grid-template-columns: repeat(auto-fit, minmax(800px, 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(500px, 1fr));
+  margin-left: 100px;
+  margin-right: 100px;
 }
 
 .image{
