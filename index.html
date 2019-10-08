@@ -18,7 +18,7 @@
 		</div>
 		
 		<div class="quantity">
-			<input class="quantity-content" type="number" step="1" value="1" pattern="[1-9]">
+			<input class="quantity-content" type="number" step="1" value="1" min="1"  oninput="event.target.value = event.target.value.replace(/[^1-9]*/g,'');">
 		</div>
 		
 		<div class="grid">
