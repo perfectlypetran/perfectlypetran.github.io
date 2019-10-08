@@ -1,9 +1,8 @@
 body {
- position:relative;
+ position: relative;
 }
 
 .header{
-  position: fixed;
   top:0;
   width: 100%;
   background-color: white;
